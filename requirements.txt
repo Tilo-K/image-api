@@ -1,3 +1,5 @@
 flask
 opencv-python
 gunicorn
+pdf2image
+python-dotenv
